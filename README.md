@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Onilopic</h1>
-<h3 align="center">A lazy backend developer from Russia</h3>
 
 - 🌱 I’m currently learning **Symfony**
 
